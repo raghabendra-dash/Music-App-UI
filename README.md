@@ -10,4 +10,4 @@ ABOUT THIS PROJECT-:
 
 2. Project has 2 pages, one for home and another for single-playlist which can be accessed by clicking on any image/link of Popular Artist Section and also the option provided in nav bar. 
 
-3. For demo purpose, there is only one song in this project.
+3. For demo purpose, there is only one song in this project...
