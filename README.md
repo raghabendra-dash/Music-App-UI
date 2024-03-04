@@ -1,7 +1,7 @@
 # Music-Player-Project
 Music-Player-Project (Made using HTML5 CSS3 and BOOTSTRAP)
 
-You can see the website live at: 
+You can see the website live at: https://raghabendra-dash.github.io/Music-Player-App/
 In this project i have created front-end design of a music player in HTML and CSS to increease my command over them.
 
 ABOUT THIS PROJECT-:
